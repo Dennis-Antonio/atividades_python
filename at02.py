@@ -8,4 +8,4 @@ def incrementar_contador():
 
 incrementar_contador()
 
-print('mensagem')
+print(mensagem)
